@@ -34,7 +34,7 @@ def merge_excel_files(df1, other_files, id_column, columns_to_merge):
 st.set_page_config(page_title="Excel Merger")
 
 # Add a title
-st.title("Excel Mergers")
+st.title("Excel Merger")
 
 # File uploader for the main Excel file
 file_sheet1 = st.file_uploader("Choose the main Excel file", type=["xlsx"])
