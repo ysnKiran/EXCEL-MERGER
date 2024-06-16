@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/ysnk/Desktop/sem-8/excel merger/EXCEL-MERGER/.venv/bin/python" "$0" "$@"
+'''exec' "/Users/ysnk/Desktop/sem-8/excel merger/EXCEL-MERGER/.venv/bin/python3.9" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
