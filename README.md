@@ -85,10 +85,10 @@ The Excel Merger App is a Streamlit-based web application designed to merge data
      | 1   | Alice   | 30  | Address 1  | 70000  |
      | 2   | Bob     | 25  | Address 2  | 60000  |
    - Worksheet: `Sheet2`
-     | ID  | Product | Price |
-     | --- | ------- | ----- |
-     | 1   | Laptop  | 1000  |
-     | 2   | Phone   | 500   |
+     | ID  | Product | Price | Address    | Salary |
+     | --- | ------- | ----- | ---------- | ------ |
+     | 1   | Laptop  | 1000  | Address 1  | 70000  |
+     | 2   | Phone   | 500   | Address 2  | 60000  |
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
